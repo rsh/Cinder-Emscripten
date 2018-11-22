@@ -76,15 +76,16 @@ Now open up your browser and goto: ```http://localhost:8000``` or ```http://127.
 
 #### FAQ
 * Which samples currently work?
- *  Samples that can render using ES2 and do not have any direct hardware dependency.
+  *  Samples that can render using ES2 and do not have any direct hardware dependency.
+
 * Noticed that ``es`` is in the path for the samples - do any of the ES3 samples work?
- *  Yes. You'll need to use FireFox nightly or Chrome Canary with WebGL2 enabled. 
+  *  Yes. You'll need to use FireFox nightly or Chrome Canary with WebGL2 enabled. 
 * Does audio work?
- *  Not yet. Feel free to make a PR.
+  *  Not yet. Feel free to make a PR.
 * Does video playback work?
- *  Not yet. Feel free to make a PR.
+  *  Not yet. Feel free to make a PR.
 * What about all the stuff from the HTML5 api?
- *  These will get added as time allows. Feel free to make a PR.
+  *  These will get added as time allows. Feel free to make a PR.
   
 <br/>
 <br/>
