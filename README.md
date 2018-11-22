@@ -80,10 +80,13 @@ Now open up your browser and goto: ```http://localhost:8000``` or ```http://127.
 
 * Noticed that ``es`` is in the path for the samples - do any of the ES3 samples work?
   *  Yes. You'll need to use FireFox nightly or Chrome Canary with WebGL2 enabled. 
+
 * Does audio work?
   *  Not yet. Feel free to make a PR.
+
 * Does video playback work?
   *  Not yet. Feel free to make a PR.
+
 * What about all the stuff from the HTML5 api?
   *  These will get added as time allows. Feel free to make a PR.
   
